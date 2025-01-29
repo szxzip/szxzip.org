@@ -1,28 +1,28 @@
-#title in header
-title: "Hi Folks."
+# title in header
+title: "Time, Forword!"
 
-#main info
-#owner
-owner: "I am Adi Sakti Jrs"
-#email: test@test.test
-info: "A student and web developer from Indonesia 🇮🇩"
-#description
-desc: "This is Minima, an undoubtedly simple and lightweight dark/light mode theme for Hexo. I created this from scratch using Skeleton CSS boilerplate. It only uses CSS and Vanilla JS, without using unnecessary third-party 'render-blocking' libraries! 😁"
+# main info
+# owner
+owner: "I am szxzip"
+# email: test@test.test
+info: "A student from China"
+# description
+desc: "Here, let's talk freely."
 
-#menu
+# menu
 menu:
   Works: /Works
   About: /About
 
-#index/main page max show posts (in number)
+# index/main page max show posts (in number)
 max_post: 4
 
 # Colors use hex color without #
 # Theme color
-tcolor: 0FA0CE
+tcolor: 187766
 
 # Define path to user css
-#(could be also located outside of theme)
+# (could be also located outside of theme)
 # Relative to source/ directory
 usercss: css/user.css
 
