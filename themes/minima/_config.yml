@@ -7,11 +7,11 @@ owner: "I am szxzip"
 # email: test@test.test
 info: "A student from China"
 # description
-desc: "Here, let's talk freely."
+desc: "Here, let's talk and think freely."
 
 # menu
 menu:
-  Works: /Works
+  Ideas: /Ideas
   About: /About
 
 # index/main page max show posts (in number)
@@ -19,7 +19,7 @@ max_post: 4
 
 # Colors use hex color without #
 # Theme color
-tcolor: 187766
+tcolor: 34be5b
 
 # Define path to user css
 # (could be also located outside of theme)
@@ -29,11 +29,10 @@ usercss: css/user.css
 # social profile at the footer/bottom
 footer: true
 placename: Earth
-placelink: https://en.wikipedia.org/wiki/Earth
-github: https://github.com/adisaktijrs
-linkedin: https://linkedin.com/in/adisaktijrs
-twitter: https://twitter.com/adisaktijrs
-instagram: https://instagram.com/adisaktijrs
+placelink: #
+github: https://github.com/szxzip
+twitter: https://x.com/szxzip
+telegram: https://t.me/szxzip
 
 # Misc
 nanobar: /js/nanobar.min.js
@@ -50,4 +49,4 @@ article:
 
 # DISQUS comments (sign up to Disqus to get disqus_shortname)
 disqus_enabled: false
-disqus_shortname: https-adisaktijrs-github-io
+disqus_shortname: https-szxzip-github-io
