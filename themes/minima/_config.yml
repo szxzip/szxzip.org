@@ -19,7 +19,7 @@ max_post: 4
 
 # Colors use hex color without #
 # Theme color
-tcolor: 34be5b
+tcolor: 3e9e82
 
 # Define path to user css
 # (could be also located outside of theme)
@@ -29,7 +29,7 @@ usercss: css/user.css
 # social profile at the footer/bottom
 footer: true
 placename: Earth
-placelink: #
+placelink: https://genshin.hoyoverse.com/
 github: https://github.com/szxzip
 twitter: https://x.com/szxzip
 telegram: https://t.me/szxzip
