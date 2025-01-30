@@ -3,11 +3,11 @@ title: "Time, Forword!"
 
 # main info
 # owner
-owner: "Hi Folks"
+owner: "Hi Товарищ"
 # email: test@test.test
 info: "I am szxzip, a student from China"
 # description
-desc: "Here, let's talk and think freely.    累死了 明天再弄..."
+desc: "I am building this website."
 
 # menu
 menu:
@@ -42,7 +42,7 @@ switch_dark: 🌑
 # favicon
 favicon: /images/favicon.png
 # thumbnail
-thumbnail: /images/thumbnail.jpg
+# thumbnail: /images/thumbnail.jpg
 
 article:
   thumbnail: true
