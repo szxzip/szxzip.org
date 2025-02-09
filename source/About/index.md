@@ -1,3 +1,0 @@
-About me...?
-
-Coming soon...
