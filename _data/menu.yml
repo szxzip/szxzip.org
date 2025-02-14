@@ -21,9 +21,16 @@ entries:
     entries:
       - title: coming soon...?
         url: false
+      - title: social
+        url: false
+        entries:
+          - title: ??
+            url: false
 
-  - title: social
+  - title: made with
     url: false
     entries:
-      - title: ??
-        url: false
+      - title: no-style-please
+        url: https://github.com/riggraz/no-style-please
+      - title: jekyll
+        url: https://jekyllrb.com/
