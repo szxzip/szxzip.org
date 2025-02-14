@@ -8,7 +8,7 @@ entries:
       - title: a student
         url: false
 
-  - title: thoughts
+  - title: echoes
     post_list: true
     url: false
     entries: false
