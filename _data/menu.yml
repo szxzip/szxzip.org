@@ -29,7 +29,7 @@ entries:
           - title: signal
             url: https://hmpg.net/
 
-  - title: by
+  - title: bye
     url: false
     entries:
       - title: no-style-please
