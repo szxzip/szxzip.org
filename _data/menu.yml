@@ -20,7 +20,7 @@ entries:
   - title: this is fine
     entries:
       - title: ???
-        url: about
+        url: about.html
       - title: social
         entries:
           - title: telegram
