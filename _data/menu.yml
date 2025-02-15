@@ -10,7 +10,7 @@ entries:
     post_list:
       limit: 5
       show_more: true
-      show_more_text: see archive...
+      show_more_text: archive...
       show_more_url: archive
 
   - title: rss
@@ -27,9 +27,7 @@ entries:
           - title: signal
             url: https://hmpg.net/
 
-  - title: bye
+  - title: copyright and technical details
     entries:
-      - title: no-style-please
-        url: https://github.com/riggraz/no-style-please
-      - title: jekyll
-        url: https://jekyllrb.com/
+      - title: ...
+        url: copyright
