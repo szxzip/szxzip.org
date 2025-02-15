@@ -13,6 +13,13 @@ Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel la
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
+<audio controls>
+  <source src="https://example.com/music.mp3" type="audio/mpeg">
+  您的浏览器不支持音频播放。
+</audio>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1956543020&auto=1&height=66"></iframe>
+
 ## Lists
 
 Unordered:
