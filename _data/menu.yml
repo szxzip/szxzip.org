@@ -2,30 +2,32 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Info
     entries:
       - title: ??
 
-  - title: the end of the internet
+  - title: Nonsense nuggets
     post_list:
       limit: 5
       show_more: true
-      show_more_text: archive...
+      show_more_text: See archive...
       show_more_url: archive
 
-  - title: rss
-    url: feed.xml
-  
-  - title: this is fine
+  - title: About this site
     entries:
-      - title: ???
+      - title: Why such style and content?
         url: about
-      - title: social
+      - title: Subscribe
         entries:
-          - title: telegram
-            url: https://hmpg.net/
-          - title: signal
-            url: https://hmpg.net/
+          - title: RSS
+            url: feed.xml
 
-  - title: copyright and technical details -> <a href='https://szxzip.org/copyright'>...</a>
+  - title: Links
+    entries:
+      - title: no content
+
+  - title: The end of the Internet
+    url: https://hmpg.net/
+
+  - title: Copyright and technical details -> <a href='https://szxzip.org/copyright'>...</a>
 
