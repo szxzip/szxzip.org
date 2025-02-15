@@ -9,10 +9,10 @@ entries:
 
   - title: the end of the internet
     post_list:
-      limit: 1
+      limit: 5
       show_more: true
       show_more_text: see archive...
-      show_more_url: archive.html
+      show_more_url: archive
 
   - title: rss
     url: feed.xml
@@ -20,7 +20,7 @@ entries:
   - title: this is fine
     entries:
       - title: ???
-        url: about.html
+        url: about
       - title: social
         entries:
           - title: telegram
