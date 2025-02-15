@@ -27,7 +27,5 @@ entries:
           - title: signal
             url: https://hmpg.net/
 
-  - title: copyright and technical details
-    entries:
-      - title: ...
-        url: copyright
+  - title: copyright and technical details -> <a href='https://szxzip.org/copyright'>...</a>
+
