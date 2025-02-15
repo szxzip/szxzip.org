@@ -41,7 +41,6 @@ The following is a blockquote:
 
 > Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1gnN8ezExN" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## Thematic breaks (<hr>)
 
@@ -56,7 +55,6 @@ Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus 
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CE7klOIMcxw?si=eqH4SQSgmU6WgG24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Code
 
