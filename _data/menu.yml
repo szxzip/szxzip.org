@@ -3,26 +3,25 @@
 
 entries:
   - title: info
-    url: false
     entries:
       - title: ??
         url: false
 
   - title: the end of the internet
-    post_list: true
-    url: false
-    entries: false
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: see archive...
+      show_more_url: archive
 
   - title: rss
     url: feed.xml
   
   - title: this is fine
-    url: false
     entries:
       - title: ???
-        url: false
+        url: about
       - title: social
-        url: false
         entries:
           - title: telegram
             url: https://hmpg.net/
@@ -30,7 +29,6 @@ entries:
             url: https://hmpg.net/
 
   - title: bye
-    url: false
     entries:
       - title: no-style-please
         url: https://github.com/riggraz/no-style-please
