@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Szxzip | Hi Tovarishch
+title: Szxzip.org
 author: szxzip
-email: szxzip@gmail.com
+email: szxzip@szxzip.org
 description: >- # this means to ignore newlines until "baseurl:"
   时代，前进！Time, Forward! Temps, en avant! Время, вперёд!
 baseurl: "" # the subpath of your site, e.g. /blog

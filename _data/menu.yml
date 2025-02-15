@@ -5,10 +5,10 @@ entries:
   - title: info
     url: false
     entries:
-      - title: a student
+      - title: ??
         url: false
 
-  - title: echoes
+  - title: the end of the internet
     post_list: true
     url: false
     entries: false
@@ -16,18 +16,20 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: something else
+  - title: this is fine
     url: false
     entries:
-      - title: coming soon...?
+      - title: ???
         url: false
       - title: social
         url: false
         entries:
-          - title: ??
-            url: false
+          - title: telegram
+            url: https://hmpg.net/
+          - title: signal
+            url: https://hmpg.net/
 
-  - title: made with
+  - title: by
     url: false
     entries:
       - title: no-style-please
