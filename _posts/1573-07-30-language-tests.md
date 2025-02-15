@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Language_Tests"
 ---
 
 Note: I took this test post from [moving](https://github.com/huangyz0918/moving), which is another Jekyll theme which is better that this one so I should not have linked it because now you will decide to use it instead of mine.
@@ -19,8 +18,6 @@ This is a Japanese test post to show you how japanese is displayed.
 
 この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。
 
-From [すぐ使えるダミーテキスト - 日本語 Lorem ipsum.](http://lipsum.sugutsukaeru.jp/index.cgi) 
-
 
 ### 2. 繁体中文测试
 
@@ -36,8 +33,6 @@ This is a chinese test post to show you how chinese is displayed.
 
 > 工步他始能詩的，裝進分星海演意學值例道……於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？
 
-From [亂數假文產生器 - Chinese Lorem Ipsum.](http://www.richyli.com/tool/loremipsum/) 
-
 
 
 ### 3. 简体中文测试
@@ -48,4 +43,3 @@ From [亂數假文產生器 - Chinese Lorem Ipsum.](http://www.richyli.com/tool/
 
 因林可相儿应满军，热影省条律因资再，整肃赤心将届。 局广写两量备验还，南教事争工民的，备进研上布。 素身电活非直，速这区交示从，百层达。 资量那毛什京身，白这快。 半打容三手开常价或，手严量般象式效，名可重芽门适。 来设什一我么，光界美么或，住身式准。 造酸改表委验众办地百养，商物战众本列听度名院，制压录丽快与千机内。 住需当四议决得命南然照按民置，当住命形金决否矿单外。 气象理离开新集增际，三划方工义很年关，拉许准孝口。 构片出干计由备美打养，持育总指承入无己。
 
-From [假文生成器， lorem ipsum Chinese](http://www.cancms.com/content/dummytext)
