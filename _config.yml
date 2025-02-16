@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 description: >- # this means to ignore newlines until "baseurl:"
   时代，前进！Time, Forward! Temps, en avant! Время, вперёд!
 
-permalink: /:slug.html
+permalink: /:year/:month/:day/:slug/
 
 favicon: "./logo.png" # relative path to site's favicon
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
