@@ -12,6 +12,6 @@ This blog is built using [Jekyll](https://jekyllrb.com/), a static site generato
    Jekyll is released under the [MIT License](https://github.com/jekyll/jekyll/blob/master/LICENSE).
 
 3. **no-style-please**:  
-   The no-style-please theme is also licensed under the [MIT License](https://github.com/riggraz/no-style-please/blob/master/LICENSE).
+   The no-style-please theme is also licensed under the [MIT License](https://github.com/riggraz/no-style-please/blob/master/LICENSE.txt).
 
 For more information about the licenses, please visit the respective links provided above.
