@@ -6,12 +6,21 @@ entries:
     entries:
       - title: ??
 
-  - title: nonsense nuggets
+  - title: silent speaks
     post_list:
+      category: silent_speaks
       limit: 5
       show_more: true
       show_more_text: see archive...
-      show_more_url: archive
+      show_more_url: silent_speaks
+
+  - title: twaddle tales
+    post_list:
+      category: twaddle_tales
+      limit: 5
+      show_more: true
+      show_more_text: see archive...
+      show_more_url: twaddle_tales
 
   - title: about this site
     entries:

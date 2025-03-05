@@ -1,5 +1,6 @@
 ---
 layout: post
+category: twaddle_tales
 title: 无教之育 No Education (Draft)
 ---
 

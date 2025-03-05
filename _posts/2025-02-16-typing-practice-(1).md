@@ -1,5 +1,6 @@
 ---
 layout: post
+category: twaddle_tales
 title: 打字练习 Typing Practice (1)
 ---
 
