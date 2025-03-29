@@ -12,4 +12,10 @@ Listen more, speak more, read more, recite more and write more. You'd better cre
 
 In the future you'll be a half—deaf and half dumb person if you don't know English.
 
-英语难学吗？如果你总是害怕困难，缺少决心和毅力，并总是
+英语难学吗？如果你总是害怕困难，缺少决心和毅力，并总是遗忘所学的东西，你会感到学英语是一件头痛的事。
+
+英语易学吗？只要你掌握使用规律，了解西方的文化和习俗，积极运用，你就能养成敏锐的语感。
+
+多听、多说、多读、多背、多写。主动创造使用英语的语境，尽力把书本上的以及别人口头的英语变成自己得心应手的工具。
+
+未来，如果你不懂英语，你就会变成一个半聋半哑的人。
