@@ -9,7 +9,7 @@ entries:
   - title: silent speaks
     post_list:
       category: silent_speaks
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: before this cycle...
       show_more_url: silent_speaks
@@ -17,7 +17,7 @@ entries:
   - title: twaddle tales
     post_list:
       category: twaddle_tales
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: before this cycle...
       show_more_url: twaddle_tales
