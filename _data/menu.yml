@@ -11,7 +11,7 @@ entries:
       category: silent_speaks
       limit: 5
       show_more: true
-      show_more_text: before the cycle...
+      show_more_text: before this cycle...
       show_more_url: silent_speaks
 
   - title: twaddle tales
@@ -19,7 +19,7 @@ entries:
       category: twaddle_tales
       limit: 5
       show_more: true
-      show_more_text: before the cycle...
+      show_more_text: before this cycle...
       show_more_url: twaddle_tales
 
   - title: about this site
@@ -34,9 +34,8 @@ entries:
   - title: links
     entries:
       - title: the current universe
-
-  - title: the end of the internet
-    url: https://hmpg.net/
+    entries:
+      - title: the current universe -> <a href='https://hmpg.net/'>next</a>
 
   - title: copyright and technical details -> <a href='https://szxzip.org/copyright'>...</a>
 
