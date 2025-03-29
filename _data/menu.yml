@@ -4,7 +4,7 @@
 entries:
   - title: info
     entries:
-      - title: nothing
+      - title: ??
 
   - title: silent speaks
     post_list:
@@ -22,7 +22,7 @@ entries:
       show_more_text: before this cycle...
       show_more_url: twaddle_tales
 
-  - title: about this site
+  - title: about here
     entries:
       - title: why such style, content and why here
         url: about
