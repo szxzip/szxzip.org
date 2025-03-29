@@ -22,7 +22,7 @@ entries:
       show_more_text: before this cycle...
       show_more_url: twaddle_tales
 
-  - title: about here
+  - title: about
     entries:
       - title: why such style, content and why here
         url: about
