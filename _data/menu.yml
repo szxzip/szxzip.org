@@ -4,14 +4,14 @@
 entries:
   - title: info
     entries:
-      - title: ??
+      - title: nothing
 
   - title: silent speaks
     post_list:
       category: silent_speaks
       limit: 5
       show_more: true
-      show_more_text: see archive...
+      show_more_text: before the cycle...
       show_more_url: silent_speaks
 
   - title: twaddle tales
@@ -19,7 +19,7 @@ entries:
       category: twaddle_tales
       limit: 5
       show_more: true
-      show_more_text: see archive...
+      show_more_text: before the cycle...
       show_more_url: twaddle_tales
 
   - title: about this site
@@ -33,7 +33,7 @@ entries:
 
   - title: links
     entries:
-      - title: no content
+      - title: the current universe
 
   - title: the end of the internet
     url: https://hmpg.net/
