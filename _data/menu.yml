@@ -1,0 +1,40 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: ??
+
+  - title: silent speaks
+    post_list:
+      category: silent_speaks
+      limit: 3
+      show_more: true
+      show_more_text: before this cycle...
+      show_more_url: silent_speaks
+
+  - title: twaddle tales
+    post_list:
+      category: twaddle_tales
+      limit: 3
+      show_more: true
+      show_more_text: before this cycle...
+      show_more_url: twaddle_tales
+
+  - title: about
+    entries:
+      - title: why such style, content and why here
+        url: about
+      - title: subscribe
+        entries:
+          - title: rss
+            url: feed.xml
+
+  - title: links
+    entries:
+      - title: the current universe
+      - title: the current universe -> <a href='https://hmpg.net/'>next</a>
+
+  - title: copyright and technical details -> <a href='https://szxzip.org/copyright'>...</a>
+
