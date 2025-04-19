@@ -4,7 +4,7 @@ category: twaddle_tales
 title: From wp_blog
 ---
 
-\* 原文：<https://szxzip.wordpress.com/2024/12/19/about/>。
+\* Original content: ~~https://szxzip.wordpress.com/2024/12/19/about/~~
 
 ---
 
