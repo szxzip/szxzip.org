@@ -32,13 +32,23 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 
 2. 下载5.3数据包，并用 LunaGC_5.3.0/patch/Astrolabe.dll 覆盖5.3数据包中 GenshinImpact_Data/Plugins/Astrolabe.dll；
 
-3. 启动Lutris，修改Wine设置，在环境变量中添加：
+3. 安装证书：
+   ```
+   certutil -A -n "mitmproxy" -t "TCu,Cu,Tuw" -i "$HOME/.mitmproxy/mitmproxy-ca-cert.cer" -d sql:$HOME/.pki/nssdb
+   openssl x509 -inform PEM -in "$HOME/.mitmproxy/mitmproxy-ca-cert.pem" -out "$HOME/.mitmproxy/mitmproxy-ca-cert.crt"
+   sudo trust anchor "$HOME/.mitmproxy/mitmproxy-ca-cert.crt" --store
+   sudo cp "$HOME/.mitmproxy/mitmproxy-ca-cert.crt" /etc/ca-certificates/trust-source/anchors/
+   sudo update-ca-trust
+   # 来自 https://blog.chyk.ink/2022/05/01/grasscutter-on-archlinux/
+   ```
+
+4. 启动Lutris，修改Wine设置，在环境变量中添加：
    ```
    http_proxy = http://localhost:8080
    https_proxy = http://localhost:8080
    ```
    
-4. 添加游戏。
+5. 添加游戏。
 
 --- 自定义Mod ---
 
