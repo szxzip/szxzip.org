@@ -24,7 +24,7 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
    ```
    $ cd /path/to/grasscutter
    $ mitmdump -s proxy.py -k --set block_global=false & \
-   sudo /usr/lib/jvm/java-17-openjdk/bin/java -jar grasscutter.jar
+   sudo /usr/lib/jvm/java-17-openjdk/bin/java -jar LunaGC-5.3.0.jar
    ```
 
 ---
