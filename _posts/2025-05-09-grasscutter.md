@@ -16,9 +16,9 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 
 3. 克隆<https://github.com/Kei-Luna/LunaGC_5.3.0>到本地，并按照readme进行编译；
 
-4. 克隆<https://github.com/pmagixc/5.3-res>，重命名为 resources 并移动到 LunaGC_5.3.0 根目录；
+4. 克隆<https://github.com/pmagixc/5.3-res>，重命名为 resources 并移动到LunaGC_5.3.0根目录；
 
-5. 若 LunaGC_5.3.0 无 proxy.py、proxy_config.py，须自行寻找下载（<https://github.com/Grasscutters/Grasscutter>的先前提交中可找到这些文件）；
+5. 若LunaGC_5.3.0无 proxy.py、proxy_config.py ，须自行寻找下载（<https://github.com/Grasscutters/Grasscutter>的先前提交中可找到这些文件）；
 
 6. 启动Grasscutter：
    ```
@@ -32,7 +32,7 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 
 1. 安装Lutris；
 
-2. 下载5.3数据包，并用 LunaGC_5.3.0/patch/Astrolabe.dll 覆盖5.3数据包中 GenshinImpact_Data/Plugins/Astrolabe.dll；
+2. 下载5.3数据包，并用 LunaGC_5.3.0/patch/Astrolabe.dll 覆盖5.3数据包中 GenshinImpact_Data/Plugins/Astrolabe.dll ；
 
 3. 安装证书：
    ```
