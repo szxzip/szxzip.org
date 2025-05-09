@@ -5,7 +5,7 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 ---
 
 ---
-{: data-content="部署Grasscutter服务器"}
+{: data-content=" 部署Grasscutter服务器 "}
 
 1. 安装MongoDB、jdk17、nodejs、mitmproxy、python；
 
@@ -28,7 +28,7 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
    ```
 
 ---
-{: data-content="本地游玩"}
+{: data-content=" 本地游玩 "}
 
 1. 安装Lutris；
 
@@ -52,7 +52,7 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 5. 添加游戏。
 
 ---
-{: data-content="自定义Mod"}
+{: data-content=" 自定义Mod "}
 
 1. 安装ProtonPlus；
 
@@ -76,6 +76,6 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 7. Mod统一放在 3dmigoto-gimi/Mods/ ，游戏中可按 F1 查看3dmigoto使用帮助。
 
 ---
-{: data-content="注释及引用"}
+{: data-content=" 注释及引用 "}
 
 [^1]: <https://blog.chyk.ink/2022/05/01/grasscutter-on-archlinux/#安装证书>
