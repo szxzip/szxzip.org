@@ -4,7 +4,7 @@ category: twaddle_tales
 title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 ---
 
---- 部署Grasscutter服务器 ---
+--- 部署Grasscutter服务器
 
 1. 安装MongoDB、jdk17、nodejs、mitmproxy、python；
 
@@ -26,7 +26,7 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
    sudo /usr/lib/jvm/java-17-openjdk/bin/java -jar grasscutter.jar
    ```
 
---- 本地游玩 ---
+--- 本地游玩
 
 1. 安装Lutris；
 
@@ -50,7 +50,7 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
    
 5. 添加游戏。
 
---- 自定义Mod ---
+--- 自定义Mod
 
 1. 安装ProtonPlus；
 
