@@ -76,5 +76,6 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 7. Mod统一放在 3dmigoto-gimi/Mods/ ，游戏中可按 F1 查看3dmigoto使用帮助。
 
 ---
+{: data-content="注释及引用"}
 
 [^1]: <https://blog.chyk.ink/2022/05/01/grasscutter-on-archlinux/#安装证书>
