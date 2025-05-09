@@ -11,7 +11,7 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 
 2. 启动MongoDB：
    ```
-   sudo systemctl enable --now mongodb
+   $ sudo systemctl enable --now mongodb
    ```
 
 3. 克隆<https://github.com/Kei-Luna/LunaGC_5.3.0>到本地，并按照readme进行编译；
@@ -22,9 +22,9 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 
 6. 启动Grasscutter：
    ```
-   cd /path/to/grasscutter
-   mitmdump -s proxy.py -k --set block_global=false & \
-   sudo /usr/lib/jvm/java-17-openjdk/bin/java -jar grasscutter.jar
+   $ cd /path/to/grasscutter
+   $ mitmdump -s proxy.py -k --set block_global=false & \
+   $ sudo /usr/lib/jvm/java-17-openjdk/bin/java -jar grasscutter.jar
    ```
 
 ---
@@ -36,11 +36,11 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 
 3. 安装证书：
    ```
-   certutil -A -n "mitmproxy" -t "TCu,Cu,Tuw" -i "$HOME/.mitmproxy/mitmproxy-ca-cert.cer" -d sql:$HOME/.pki/nssdb
-   openssl x509 -inform PEM -in "$HOME/.mitmproxy/mitmproxy-ca-cert.pem" -out "$HOME/.mitmproxy/mitmproxy-ca-cert.crt"
-   sudo trust anchor "$HOME/.mitmproxy/mitmproxy-ca-cert.crt" --store
-   sudo cp "$HOME/.mitmproxy/mitmproxy-ca-cert.crt" /etc/ca-certificates/trust-source/anchors/
-   sudo update-ca-trust
+   $ certutil -A -n "mitmproxy" -t "TCu,Cu,Tuw" -i "$HOME/.mitmproxy/mitmproxy-ca-cert.cer" -d sql:$HOME/.pki/nssdb
+   $ openssl x509 -inform PEM -in "$HOME/.mitmproxy/mitmproxy-ca-cert.pem" -out "$HOME/.mitmproxy/mitmproxy-ca-cert.crt"
+   $ sudo trust anchor "$HOME/.mitmproxy/mitmproxy-ca-cert.crt" --store
+   $ sudo cp "$HOME/.mitmproxy/mitmproxy-ca-cert.crt" /etc/ca-certificates/trust-source/anchors/
+   $ sudo update-ca-trust
    # 来自 https://blog.chyk.ink/2022/05/01/grasscutter-on-archlinux/
    ```
 
