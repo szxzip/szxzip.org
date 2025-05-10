@@ -20,7 +20,7 @@ entries:
       limit: 3
       show_more: true
       show_more_text: ...
-      show_more_url: '2'
+      show_more_url: 2
 
   - title: about
     entries:
