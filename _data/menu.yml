@@ -8,13 +8,13 @@ entries:
 
   - title: 1
     post_list:
-      category: x
+      category: 1
       limit: 3
       show_more: true
       show_more_text: ...
       show_more_url: 1
 
-  - title: '2'
+  - title: 2
     post_list:
       category: y
       limit: 3
