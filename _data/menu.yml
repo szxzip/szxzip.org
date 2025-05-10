@@ -6,13 +6,13 @@ entries:
     entries:
       - title: ??
 
-  - title: '1'
+  - title: 1
     post_list:
       category: x
       limit: 3
       show_more: true
       show_more_text: ...
-      show_more_url: '1'
+      show_more_url: 1
 
   - title: '2'
     post_list:
@@ -32,9 +32,9 @@ entries:
   - title: links
     entries:
       - title: next
-      - url: https://hmpg.net/
+        url: https://hmpg.net/
 
   - title: copyright
     entries:
       - title: ...
-      - url: https://szxzip.org/copyright
+        url: https://szxzip.org/copyright
