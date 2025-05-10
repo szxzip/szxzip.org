@@ -6,21 +6,21 @@ entries:
     entries:
       - title: ??
 
-  - title: 1
+  - title: '1'
     post_list:
-      category: 1
+      category: '1'
       limit: 3
       show_more: true
       show_more_text: ...
-      show_more_url: 1
+      show_more_url: '1'
 
-  - title: 2
+  - title: '2'
     post_list:
-      category: 2
+      category: '2'
       limit: 3
       show_more: true
       show_more_text: ...
-      show_more_url: 2
+      show_more_url: '2'
 
   - title: about
     entries:
