@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Copyright Notice
+title: Copyright
 ---
 
 This blog is built using [Jekyll](https://jekyllrb.com/), a static site generator, and the [no-style-please](https://github.com/riggraz/no-style-please) theme. The content and structure of this blog are licensed under the following terms:

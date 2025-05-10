@@ -24,17 +24,17 @@ entries:
 
   - title: about
     entries:
-      - title: why such style, content and why here
+      - title: about
         url: about
-      - title: subscribe
-        entries:
-          - title: rss
-            url: feed.xml
+      - title: rss
+        url: feed.xml
 
   - title: links
     entries:
-      - title: the current universe
-      - title: the current universe . <a href='https://hmpg.net/'>next</a>
+      - title: next
+      - url: https://hmpg.net/
 
-  - title: copyright and technical details <a href='https://szxzip.org/copyright'>...</a>
-
+  - title: copyright
+    entries:
+      - title: '...'
+      - url: https://szxzip.org/copyright
