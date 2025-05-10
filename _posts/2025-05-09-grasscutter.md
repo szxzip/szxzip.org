@@ -1,6 +1,6 @@
 ---
 layout: post
-category: 2
+category: y
 title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 ---
 

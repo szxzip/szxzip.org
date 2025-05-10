@@ -8,7 +8,7 @@ entries:
 
   - title: '1'
     post_list:
-      category: 1
+      category: x
       limit: 3
       show_more: true
       show_more_text: ...
@@ -16,7 +16,7 @@ entries:
 
   - title: '2'
     post_list:
-      category: 2
+      category: y
       limit: 3
       show_more: true
       show_more_text: ...
