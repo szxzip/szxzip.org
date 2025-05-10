@@ -1,6 +1,6 @@
 ---
 layout: post
-category: twaddle_tales
+category: 2
 title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 ---
 
