@@ -6,21 +6,21 @@ entries:
     entries:
       - title: ??
 
-  - title: silent speaks
+  - title: 1
     post_list:
-      category: silent_speaks
+      category: 1
       limit: 3
       show_more: true
-      show_more_text: before this cycle...
-      show_more_url: silent_speaks
+      show_more_text: '...'
+      show_more_url: 1
 
-  - title: twaddle tales
+  - title: 2
     post_list:
-      category: twaddle_tales
+      category: 2
       limit: 3
       show_more: true
-      show_more_text: before this cycle...
-      show_more_url: twaddle_tales
+      show_more_text: '...'
+      show_more_url: 2
 
   - title: about
     entries:
@@ -34,7 +34,7 @@ entries:
   - title: links
     entries:
       - title: the current universe
-      - title: the current universe -> <a href='https://hmpg.net/'>next</a>
+      - title: the current universe . <a href='https://hmpg.net/'>next</a>
 
-  - title: copyright and technical details -> <a href='https://szxzip.org/copyright'>...</a>
+  - title: copyright and technical details <a href='https://szxzip.org/copyright'>...</a>
 
