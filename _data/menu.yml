@@ -5,6 +5,7 @@ entries:
   - title: info
     entries:
       - title: ??
+      - title:
 
   - title: 1
     post_list:
@@ -28,13 +29,16 @@ entries:
         url: about
       - title: rss
         url: feed.xml
+      - title:
 
   - title: links
     entries:
       - title: next
         url: https://hmpg.net/
+      - title:
 
   - title: copyright
     entries:
       - title: ...
         url: https://szxzip.org/copyright
+      - title:
