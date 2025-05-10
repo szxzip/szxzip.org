@@ -11,7 +11,7 @@ entries:
       category: 1
       limit: 3
       show_more: true
-      show_more_text: '...'
+      show_more_text: ...
       show_more_url: 1
 
   - title: 2
@@ -19,7 +19,7 @@ entries:
       category: 2
       limit: 3
       show_more: true
-      show_more_text: '...'
+      show_more_text: ...
       show_more_url: 2
 
   - title: about
@@ -36,5 +36,5 @@ entries:
 
   - title: copyright
     entries:
-      - title: '...'
+      - title: ...
       - url: https://szxzip.org/copyright
