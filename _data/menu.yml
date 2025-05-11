@@ -1,0 +1,43 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: ??
+      - title:
+
+  - title: 1
+    post_list:
+      category: x
+      limit: 3
+      show_more: true
+      show_more_text: '...'
+      show_more_url: 1
+
+  - title: 2
+    post_list:
+      category: y
+      limit: 3
+      show_more: true
+      show_more_text: '...'
+      show_more_url: 2
+
+  - title: about
+    entries:
+      - title: about
+        url: about
+      - title: rss
+        url: feed.xml
+      - title:
+
+  - title: links
+    entries:
+      - title: next
+        url: https://hmpg.net/
+      - title:
+
+  - title: copyright
+    entries:
+      - title: '...'
+        url: https://szxzip.org/copyright
