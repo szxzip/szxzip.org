@@ -5,7 +5,7 @@ title: Genshin Impact v5.3 Grasscutter & 3DMigoto
 ---
 
 ---
-{: data-content=" 部署Grasscutter服务器 "}
+{: data-content=" 部署本地服务器 "}
 
 1. 安装MongoDB、jdk17、nodejs、mitmproxy、python；
 
