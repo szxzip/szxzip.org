@@ -1,7 +1,7 @@
 ---
 layout: post
 category: y
-title: Genshin Impact v5.3 Grasscutter & 3dmigoto
+title: Genshin Impact v5.3 Grasscutter & 3DMigoto
 ---
 
 ---
@@ -36,7 +36,7 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 
 1. 安装Lutris；
 
-2. 下载5.3数据包，并用 LunaGC_5.3.0/patch/Astrolabe.dll 覆盖5.3数据包中 GenshinImpact_Data/Plugins/Astrolabe.dll ；
+2. 下载5.3游戏数据，并用 LunaGC_5.3.0/patch/Astrolabe.dll 覆盖 GenshinImpact_Data/Plugins/Astrolabe.dll ；
 
 3. 启动Lutris，添加Wine环境变量：
 
@@ -48,15 +48,15 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 4. 添加游戏。
 
 ---
-{: data-content=" 自定义Mod "}
+{: data-content=" 自定义模组 "}
 
 1. 安装ProtonPlus；
 
-2. 使用ProtonPlus，为Lutris安装Wine-Staging-Tkg；
+2. 启动ProtonPlus，为Lutris安装Wine-Staging-Tkg；
 
-3. 修改Lutris设置：启用高级选项；Wine版本改为Wine-Staging-Tkg；关闭VKD3D、DXVK-NVAPI/DLSS；关闭AMD FSR、两个反作弊；启用Output debugging info；
+3. 修改Lutris设置：开启高级选项；Wine版本改为Wine-Staging-Tkg；关闭VKD3D、DXVK-NVAPI/DLSS、AMD FSR、2个反作弊；
 
-4. 从[SilentNightSound/GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer)下载GIMI最新版本；
+4. 从[SilentNightSound/GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer)下载3DMigoto-GIMI；
 
 5. 新建launch.bat:
    ```
@@ -67,6 +67,6 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
    start "" "GenshinImpact.exe"
    ```
    
-6. 修改游戏配置文件，相关条目改为 /path/to/launch.bat ；
+6. Lutris相关设置修改为 /path/to/launch.bat ；
 
-7. Mod统一放在 3dmigoto-gimi/Mods/ ，游戏中可按 F1 查看3dmigoto使用帮助。
+7. 自定义模组请置于 3dmigoto-gimi/Mods/ ，游戏中可按 F1 查看帮助。
