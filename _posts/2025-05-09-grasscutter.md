@@ -16,8 +16,8 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 
 3. 克隆[Kei-Luna/LunaGC_5.3.0](https://github.com/Kei-Luna/LunaGC_5.3.0)到本地，并编译：
    ```
-   chmod +x gradlew
-   ./gradlew jar
+   $ chmod +x gradlew
+   $ ./gradlew jar
    ```
 
 4. 克隆[pmagixc/5.3-res](https://github.com/pmagixc/5.3-res)，重命名为 resources 并移动到LunaGC_5.3.0根目录；
