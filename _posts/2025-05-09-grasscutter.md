@@ -40,11 +40,10 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 
 3. 启动Lutris，添加Wine环境变量：
 
-| Key | Value |
-|---|---|
-| http_proxy | http://localhost:8080 |
-| https_proxy | http://localhost:8080 |
-   
+   | Key | Value |
+   | http_proxy | http://localhost:8080 |
+   | https_proxy | http://localhost:8080 |
+  
 4. 添加游戏。
 
 ---
