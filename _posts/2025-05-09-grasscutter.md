@@ -38,11 +38,12 @@ title: Genshin Impact v5.3 Grasscutter & 3dmigoto
 
 2. 下载5.3数据包，并用 LunaGC_5.3.0/patch/Astrolabe.dll 覆盖5.3数据包中 GenshinImpact_Data/Plugins/Astrolabe.dll ；
 
-3. 启动Lutris，添加Wine环境变量：  
-   | Key | Value |
-   |---|---|
-   | http_proxy | http://localhost:8080 |
-   | https_proxy | http://localhost:8080 |
+3. 启动Lutris，添加Wine环境变量：
+
+| Key | Value |
+|---|---|
+| http_proxy | http://localhost:8080 |
+| https_proxy | http://localhost:8080 |
    
 4. 添加游戏。
 
