@@ -17,24 +17,3 @@ entries:
   - title: 2
     post_list:
       category: y
-      limit: 3
-      show_more: true
-      show_more_text: '...'
-      show_more_url: 2
-
-  - title: about
-    entries:
-      - title: about
-        url: about
-      - title: rss
-        url: feed.xml
-
-  - title: links
-    entries:
-      - title: next
-        url: https://hmpg.net/
-
-  - title: copyright
-    entries:
-      - title: '...'
-        url: https://szxzip.org/copyright
