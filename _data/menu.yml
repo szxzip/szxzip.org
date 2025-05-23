@@ -2,14 +2,11 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
-    entries:
-      - title: '?'
 
   - title: 1
     post_list:
       category: x
-      limit: 3
+      limit: 2
       show_more: true
       show_more_text: '...'
       show_more_url: 1
