@@ -67,6 +67,6 @@ title: Genshin Impact v5.3 Grasscutter & 3DMigoto
    start "" "GenshinImpact.exe"
    ```
    
-6. Lutris 相关设置修改为 /path/to/launch.bat；
+6. Lutris 相关设置修改为 `/path/to/launch.bat`；
 
 7. 自定义模组请置于 3dmigoto-gimi/Mods/，游戏中可按 F1 查看帮助。
