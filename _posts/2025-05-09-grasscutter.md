@@ -38,7 +38,7 @@ title: Genshin Impact v5.3 Grasscutter & 3DMigoto
 
 2. 下载 5.3 游戏数据，并将 GenshinImpact_Data/Plugins/Astrolabe.dll 替换为 LunaGC_5.3.0/patch/Astrolabe.dll；
 
-3. 启动 Lutris，添加 Wine 环境变量：
+3. 启动 Lutris，添加环境变量：
 
    | Key | Value |
    |---|---|
@@ -50,15 +50,13 @@ title: Genshin Impact v5.3 Grasscutter & 3DMigoto
 ---
 {: data-content=" 自定义模组 "}
 
-1. 安装 ProtonPlus；
+1. 安装 ProtonPlus 并在其内安装 Wine-Staging-Tkg；
 
-2. 启动 ProtonPlus，为 Lutris 安装 Wine-Staging-Tkg；
+2. Lutris 设置：开启 Advanced；启用 Wine-Staging-Tkg；关闭 VKD3D、DLSS、FSR、Anti-Cheat；
 
-3. 修改 Lutris 设置：开启 Advanced；启用 Wine-Staging-Tkg；关闭 VKD3D、DLSS、FSR、Anti-Cheat；
+3. 由 [SilentNightSound/GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer) 下载 3DMigoto-GIMI；
 
-4. 由 [SilentNightSound/GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer) 下载 3DMigoto-GIMI；
-
-5. 新建 launch.bat：
+4. 创建 launch.bat，并设为 Lutris 游戏主程序：
    ```
    cd C:\path\to\3dmigoto\
    start "" "3DMigoto Loader.exe"
@@ -67,6 +65,4 @@ title: Genshin Impact v5.3 Grasscutter & 3DMigoto
    start "" "GenshinImpact.exe"
    ```
    
-6. Lutris 游戏主程序设为 /path/to/launch.bat；
-
-7. 自定义模组请置于 3dmigoto-gimi/Mods/，游戏中可按 F1 查看帮助。
+5. 自定义模组请置于 3dmigoto-gimi/Mods/，游戏中可按 F1 查看帮助。
