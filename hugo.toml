@@ -5,7 +5,6 @@ theme = 'PaperMod'
 
 [params]
   defaultTheme = 'auto'
-  ShowReadingTime = 'false'
 
 [params.homeInfoParams]
   Title = "Time, forward."
