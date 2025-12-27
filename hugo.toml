@@ -1,0 +1,44 @@
+baseURL = 'https://szxzip.org/'
+languageCode = 'en-us'
+title = 'Pizxzs'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto'
+  ShowReadingTime = 'false'
+
+[params.homeInfoParams]
+  Title = "Time, forward."
+  Content = "时代，前进 | Temps, en avant | Время, вперёд"
+
+[params.assets]
+  favicon = "/icons/favicon.ico"
+  favicon16x16 = "/icons/favicon-16x16.webp"
+  favicon32x32 = "/icons/favicon-32x32.webp"
+
+[params.fuseOpts]
+  isCaseSensitive = 'false'
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ['title', 'permalink', 'summary', 'content']
+
+[params.cover]
+  responsiveImages = 'false'
+
+[outputs]
+home = ['HTML', 'RSS', 'JSON']
+
+[[menu.main]]
+name       = "Search"
+identifier = "search"
+url        = "/search/"
+weight     = 1
+
+[[menu.main]]
+name       = "Archives"
+identifier = "archives"
+url        = "/archives/"
+weight     = 2
