@@ -1,5 +1,5 @@
 ---
-title: 原神 v5.3 Grasscutter & 3DMigoto
+title: 原神-5.3 Grasscutter & 3DMigoto
 date: 2025-05-09
 ---
 
