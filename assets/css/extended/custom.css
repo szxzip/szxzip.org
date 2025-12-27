@@ -1,16 +1,32 @@
 @font-face {
-    font-family: 'SourceHanSansSC';
-    src: url('/fonts/SourceHanSansSC-VF.otf.woff2') format('woff2');
-    font-weight: 100 900;
+    font-family: 'SourceSans';
+    src: url('/fonts/SourceSans3VF-Upright.otf.woff2') format('woff2');
+    font-weight: 200 900;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'SourceHanSerifSC';
-    src: url('/fonts/SourceHanSerifSC-VF.otf.woff2') format('woff2');
-    font-weight: 100 900;
+    font-family: 'SourceSans';
+    src: url('/fonts/SourceSans3VF-Italic.otf.woff2') format('woff2');
+    font-weight: 200 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SourceSerif';
+    src: url('/fonts/SourceSerif4Variable-Roman.otf.woff2') format('woff2');
+    font-weight: 200 900;
     font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SourceSerif';
+    src: url('/fonts/SourceSerif4Variable-Italic.otf.woff2') format('woff2');
+    font-weight: 200 900;
+    font-style: italic;
     font-display: swap;
 }
 
@@ -30,8 +46,24 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'SourceHanSansSC';
+    src: url('/fonts/SourceHanSansSC-VF.otf.woff2') format('woff2');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SourceHanSerifSC';
+    src: url('/fonts/SourceHanSerifSC-VF.otf.woff2') format('woff2');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
 body {
-    font-family: 'SourceHanSansSC', sans-serif;
+    font-family: 'SourceSans', 'SourceHanSansSC', sans-serif;
     font-weight: 400;
 }
 
@@ -42,3 +74,12 @@ code, pre, .chroma {
 h1, h2 { font-weight: 700; }
 h3, h4 { font-weight: 500; }
 strong { font-weight: 600; }
+
+article, .post-content, p, li, blockquote, figcaption {
+    text-align: justify !important;
+    text-justify: inter-ideograph;
+}
+
+article p + p, .post-content p + p {
+    margin-top: 1.2em;
+}
