@@ -5,7 +5,7 @@ date: 2025-05-09
 
 ## 部署本地服务器
 
-1. 安装 MongoDB、jdk17、nodejs、mitmproxy、python；
+1. 安装 `MongoDB`、`jdk17`、`nodejs`、`mitmproxy`、`python`；
 
 2. 启动 MongoDB：
    ```
@@ -31,7 +31,7 @@ date: 2025-05-09
 
 ## 本地游玩
 
-1. 安装 Wine-Tkg-Staging、Lutris；
+1. 安装 `Wine-Tkg-Staging`、`Lutris`；
 
 2. 下载 5.3 游戏数据，并将 `GenshinImpact_Data/Plugins/Astrolabe.dll` 替换为 `LunaGC_5.3.0/patch/Astrolabe.dll`；
 
@@ -59,4 +59,4 @@ date: 2025-05-09
    start "" "GenshinImpact.exe"
    ```
    
-4. 自定义模组请置于 3dmigoto-gimi/Mods/，游戏中可按 `F1` 查看帮助。
+4. 自定义模组请置于 `3dmigoto-gimi/Mods/`，游戏中可按 `F1` 查看帮助。
