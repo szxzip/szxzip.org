@@ -3,7 +3,7 @@ title: 原神-5.3 Grasscutter & 3DMigoto
 date: 2025-05-09
 ---
 
-## 部署本地服务器
+### 部署本地服务器
 
 1. 安装 MongoDB、JDK 17、Node.js、mitmproxy、Python；
 
@@ -39,7 +39,7 @@ date: 2025-05-09
    $ sudo /usr/lib/jvm/java-17-openjdk/bin/java -jar LunaGC-5.3.0.jar
    ```
 
-## 本地游玩
+### 本地游玩
 
 1. 安装 Wine-Tkg-Staging、Lutris；
 
@@ -60,7 +60,7 @@ date: 2025-05-09
   
 4. 添加游戏。
 
-## 自定义模组
+### 自定义模组
 
 1. Lutris 设置：开启 `Advanced`；启用 `Wine-Tkg-Staging`；关闭 `VKD3D` `DLSS` `FSR` `Anti-Cheat`；
 
