@@ -18,9 +18,9 @@ date: 2025-05-09
    $ ./gradlew jar
    ```
 
-4. 克隆 [pmagixc/5.3-res](https://github.com/pmagixc/5.3-res)，重命名为 `resources`，置于 `LunaGC_5.3.0` 根目录；
+4. 克隆 [pmagixc/5.3-res](https://github.com/pmagixc/5.3-res)，重命名为 `resources`，置于 LunaGC_5.3.0 根目录；
 
-5. 获取 [MlgmXyysd/Grasscutter](https://github.com/MlgmXyysd/Grasscutter) `proxy.py` `proxy_config.py`，置于 `LunaGC_5.3.0` 根目录；
+5. 获取 [MlgmXyysd/Grasscutter](https://github.com/MlgmXyysd/Grasscutter) `proxy.py` `proxy_config.py`，置于 LunaGC_5.3.0 根目录；
 
 6. 启动 Grasscutter：
    ```
@@ -39,8 +39,8 @@ date: 2025-05-09
 
    | Key | Value |
    |---|---|
-   | `http_proxy` | `http://localhost:8080` |
-   | `https_proxy` | `http://localhost:8080` |
+   | http_proxy | http://localhost:8080 |
+   | https_proxy | http://localhost:8080 |
   
 4. 添加游戏。
 
@@ -48,7 +48,7 @@ date: 2025-05-09
 
 1. Lutris 设置：开启 `Advanced`；启用 `Wine-Tkg-Staging`；关闭 `VKD3D` `DLSS` `FSR` `Anti-Cheat`；
 
-2. 由 [SilentNightSound/GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer) 下载 `3DMigoto-GIMI`；
+2. 由 [SilentNightSound/GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer) 下载 3DMigoto-GIMI；
 
 3. 创建 `launch.bat`，并设为 Lutris 游戏主程序：
    ```
@@ -59,4 +59,4 @@ date: 2025-05-09
    start "" "GenshinImpact.exe"
    ```
    
-4. 自定义模组请置于 `3dmigoto-gimi/Mods/`，游戏中可按 `F1` 查看帮助。
+4. 自定义模组请置于 3dmigoto-gimi/Mods/，游戏中可按 `F1` 查看帮助。
