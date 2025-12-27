@@ -1,13 +1,22 @@
 @font-face {
     font-family: 'SourceHanSansSC';
-    src: url('/fonts/SourceHanSansSC-VF.otf.woff2') format('woff2');
+    src: url('/fonts/SourceHanSansCN-VF.otf.woff2') format('woff2');
     font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SourceHanSerifSC';
+    src: url('/fonts/SourceHanSerifCN-VF.otf.woff2') format('woff2');
+    font-weight: 100 900;
+    font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'SourceCodePro';
-    src: url('/fonts/SourceCodeVF-Upright.otf.woff2') format('woff2-variations');
+    src: url('/fonts/SourceCodeVF-Upright.otf.woff2') format('woff2');
     font-weight: 200 900;
     font-style: normal;
     font-display: swap;
@@ -15,14 +24,14 @@
 
 @font-face {
     font-family: 'SourceCodePro';
-    src: url('/fonts/SourceCodeVF-Italic.otf.woff2') format('woff2-variations');
+    src: url('/fonts/SourceCodeVF-Italic.otf.woff2') format('woff2');
     font-weight: 200 900;
     font-style: italic;
     font-display: swap;
 }
 
 body {
-    font-family: 'SourceHanSerifSC', sans-serif !important;
+    font-family: 'SourceHanSansSC', sans-serif !important;
     font-weight: 400;
 }
 
