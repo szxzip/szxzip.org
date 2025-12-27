@@ -31,7 +31,7 @@ date: 2025-05-09
 
 ## 本地游玩
 
-1. 安装 Lutris；
+1. 安装 Wine-Tkg-Staging、Lutris；
 
 2. 下载 5.3 游戏数据，并将 `GenshinImpact_Data/Plugins/Astrolabe.dll` 替换为 `LunaGC_5.3.0/patch/Astrolabe.dll`；
 
@@ -46,13 +46,11 @@ date: 2025-05-09
 
 ## 自定义模组
 
-1. 安装 ProtonPlus 并在其内安装 `Wine-Staging-Tkg`；
+1. Lutris 设置：开启 `Advanced`；启用 `Wine-Tkg-Staging`；关闭 `VKD3D`、`DLSS`、`FSR`、`Anti-Cheat`；
 
-2. Lutris 设置：开启 `Advanced`；启用 Wine-Staging-Tkg；关闭 `VKD3D`、`DLSS`、`FSR`、`Anti-Cheat`；
+2. 由 [SilentNightSound/GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer) 下载 3DMigoto-GIMI；
 
-3. 由 [SilentNightSound/GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer) 下载 3DMigoto-GIMI；
-
-4. 创建 `launch.bat`，并设为 Lutris 游戏主程序：
+3. 创建 `launch.bat`，并设为 Lutris 游戏主程序：
    ```
    cd C:\path\to\3dmigoto\
    start "" "3DMigoto Loader.exe"
@@ -61,4 +59,4 @@ date: 2025-05-09
    start "" "GenshinImpact.exe"
    ```
    
-5. 自定义模组请置于 3dmigoto-gimi/Mods/，游戏中可按 F1 查看帮助。
+4. 自定义模组请置于 3dmigoto-gimi/Mods/，游戏中可按 `F1` 查看帮助。
