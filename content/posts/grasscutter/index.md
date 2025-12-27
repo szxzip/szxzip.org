@@ -5,7 +5,7 @@ date: 2025-05-09
 
 ## 部署本地服务器
 
-1. 安装 `MongoDB` `jdk17` `nodejs` `mitmproxy` `python`；
+1. 安装 `MongoDB` `JDK 17` `Node.js` `mitmproxy` `Python`；
 
 2. 启动 MongoDB：
    ```

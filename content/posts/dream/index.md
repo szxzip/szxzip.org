@@ -10,5 +10,5 @@ date: 2025-06-03
 “Personas played out on the stage”  
 “Will return to the self when there’s a curtain call”
 
-“舞台上戏角无数”  
-“唯一的自我却存在于谢幕之后”
+「舞台上戏角无数」  
+「唯一的自我却存在于谢幕之后」
