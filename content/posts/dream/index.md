@@ -5,9 +5,7 @@ date: 2025-06-03
 
 记梦。
 
-<br>
-<br>
-<br>
+<br style="line-height: 2;">
 
 “Personas played out on the stage”  
 “Will return to the self when there’s a curtain call”
