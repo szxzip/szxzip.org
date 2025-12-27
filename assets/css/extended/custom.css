@@ -74,7 +74,3 @@ code, pre, .chroma {
 h1, h2 { font-weight: 700; }
 h3, h4 { font-weight: 500; }
 strong { font-weight: 600; }
-
-article p + p, .post-content p + p {
-    margin-top: 1.2em;
-}
