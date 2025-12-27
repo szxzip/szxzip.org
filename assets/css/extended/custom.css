@@ -4,7 +4,6 @@
     font-weight: 200 900;
     font-style: normal;
     font-display: swap;
-    unicode-range: U+0000-024F, U+1E00-1EFF;
 }
 
 @font-face {
@@ -13,7 +12,6 @@
     font-weight: 200 900;
     font-style: italic;
     font-display: swap;
-    unicode-range: U+0000-024F, U+1E00-1EFF;
 }
 
 @font-face {
@@ -54,7 +52,6 @@
     font-weight: 100 900;
     font-style: normal;
     font-display: swap;
-    unicode-range: U+4E00-9FFF, U+3000-303F, U+FF00-FFEF;
 }
 
 @font-face {
@@ -77,11 +74,6 @@ code, pre, .chroma {
 h1, h2 { font-weight: 700; }
 h3, h4 { font-weight: 500; }
 strong { font-weight: 600; }
-
-article, .post-content, p, li, blockquote, figcaption {
-    text-align: justify !important;
-    text-justify: inter-ideograph;
-}
 
 article p + p, .post-content p + p {
     margin-top: 1.2em;
