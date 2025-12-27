@@ -5,7 +5,7 @@ date: 2025-05-09
 
 ## 部署本地服务器
 
-1. 安装 `MongoDB`、`jdk17`、`nodejs`、`mitmproxy`、`python`；
+1. 安装 `MongoDB` `jdk17` `nodejs` `mitmproxy` `python`；
 
 2. 启动 MongoDB：
    ```
@@ -20,7 +20,7 @@ date: 2025-05-09
 
 4. 克隆 [pmagixc/5.3-res](https://github.com/pmagixc/5.3-res)，重命名为 `resources`，置于 LunaGC_5.3.0 根目录；
 
-5. 获取 [MlgmXyysd/Grasscutter](https://github.com/MlgmXyysd/Grasscutter) `proxy.py`、`proxy_config.py`，置于 LunaGC_5.3.0 根目录；
+5. 获取 [MlgmXyysd/Grasscutter](https://github.com/MlgmXyysd/Grasscutter) `proxy.py` `proxy_config.py`，置于 LunaGC_5.3.0 根目录；
 
 6. 启动 Grasscutter：
    ```
@@ -31,7 +31,7 @@ date: 2025-05-09
 
 ## 本地游玩
 
-1. 安装 `Wine-Tkg-Staging`、`Lutris`；
+1. 安装 `Wine-Tkg-Staging` `Lutris`；
 
 2. 下载 5.3 游戏数据，并将 `GenshinImpact_Data/Plugins/Astrolabe.dll` 替换为 `LunaGC_5.3.0/patch/Astrolabe.dll`；
 
@@ -46,7 +46,7 @@ date: 2025-05-09
 
 ## 自定义模组
 
-1. Lutris 设置：开启 `Advanced`；启用 `Wine-Tkg-Staging`；关闭 `VKD3D`、`DLSS`、`FSR`、`Anti-Cheat`；
+1. Lutris 设置：开启 `Advanced`；启用 `Wine-Tkg-Staging`；关闭 `VKD3D` `DLSS` `FSR` `Anti-Cheat`；
 
 2. 由 [SilentNightSound/GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer) 下载 3DMigoto-GIMI；
 
