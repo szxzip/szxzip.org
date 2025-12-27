@@ -38,8 +38,6 @@ date: 2025-05-09
    $ mitmdump -s proxy.py & \
    $ sudo /usr/lib/jvm/java-17-openjdk/bin/java -jar LunaGC-5.3.0.jar
    ```
-   
-<br>
 
 ## 本地游玩
 
@@ -61,8 +59,6 @@ date: 2025-05-09
 <br>
   
 4. 添加游戏。
-
-<br>
 
 ## 自定义模组
 
