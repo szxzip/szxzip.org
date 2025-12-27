@@ -18,9 +18,9 @@ date: 2025-05-09
    $ ./gradlew jar
    ```
 
-4. 克隆 [pmagixc/5.3-res](https://github.com/pmagixc/5.3-res)，重命名为 resources，置于 LunaGC_5.3.0 根目录；
+4. 克隆 [pmagixc/5.3-res](https://github.com/pmagixc/5.3-res)，重命名为 `resources`，置于 LunaGC_5.3.0 根目录；
 
-5. 获取 [MlgmXyysd/Grasscutter](https://github.com/MlgmXyysd/Grasscutter) proxy.py、proxy_config.py，置于 LunaGC_5.3.0 根目录；
+5. 获取 [MlgmXyysd/Grasscutter](https://github.com/MlgmXyysd/Grasscutter) `proxy.py`、`proxy_config.py`，置于 LunaGC_5.3.0 根目录；
 
 6. 启动 Grasscutter：
    ```
@@ -33,7 +33,7 @@ date: 2025-05-09
 
 1. 安装 Lutris；
 
-2. 下载 5.3 游戏数据，并将 GenshinImpact_Data/Plugins/Astrolabe.dll 替换为 LunaGC_5.3.0/patch/Astrolabe.dll；
+2. 下载 5.3 游戏数据，并将 `GenshinImpact_Data/Plugins/Astrolabe.dll` 替换为 `LunaGC_5.3.0/patch/Astrolabe.dll`；
 
 3. 启动 Lutris，添加环境变量：
 
@@ -46,13 +46,13 @@ date: 2025-05-09
 
 ## 自定义模组
 
-1. 安装 ProtonPlus 并在其内安装 Wine-Staging-Tkg；
+1. 安装 ProtonPlus 并在其内安装 `Wine-Staging-Tkg`；
 
-2. Lutris 设置：开启 Advanced；启用 Wine-Staging-Tkg；关闭 VKD3D、DLSS、FSR、Anti-Cheat；
+2. Lutris 设置：开启 `Advanced`；启用 Wine-Staging-Tkg；关闭 `VKD3D`、`DLSS`、`FSR`、`Anti-Cheat`；
 
 3. 由 [SilentNightSound/GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer) 下载 3DMigoto-GIMI；
 
-4. 创建 launch.bat，并设为 Lutris 游戏主程序：
+4. 创建 `launch.bat`，并设为 Lutris 游戏主程序：
    ```
    cd C:\path\to\3dmigoto\
    start "" "3DMigoto Loader.exe"
