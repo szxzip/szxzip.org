@@ -5,7 +5,7 @@ date: 2025-05-09
 
 ## 部署本地服务器
 
-1. 安装 `MongoDB` `JDK 17` `Node.js` `mitmproxy` `Python`；
+1. 安装 MongoDB、JDK 17、Node.js、mitmproxy、Python；
 
 2. 启动 MongoDB：
    ```
@@ -31,7 +31,7 @@ date: 2025-05-09
 
 ## 本地游玩
 
-1. 安装 `Wine-Tkg-Staging` `Lutris`；
+1. 安装 Wine-Tkg-Staging、Lutris；
 
 2. 下载 5.3 游戏数据，并将 `GenshinImpact_Data/Plugins/Astrolabe.dll` 替换为 `LunaGC_5.3.0/patch/Astrolabe.dll`；
 
