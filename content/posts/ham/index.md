@@ -9,7 +9,7 @@ date: 2026-01-23
 
 对于泉盛 UV-K6，国内有鼎鼎大名的 [LOSEHU 固件](https://k5.vicicode.com)。海外也有很多开源固件，我比较偏爱 armel 的 [F4HWN 固件](https://github.com/armel/uv-k5-firmware-custom)。
 
-泉盛 UV-K6 刷机可以借助 LOSEHU 网页刷机工具。其无法在 Firefox Linux 运行，Chromium 没试过；Chrome Windows 没有问题。刷入 F4HWN 固件后，可以借助 [Chirp 软件](https://chirpmyradio.com) 以及 [F4HWN 插件](https://github.com/armel/uv-k5-chirp-driver) 进行后续读写。
+泉盛 UV-K6 刷机可以借助 LOSEHU 网页刷机工具。其无法在 Firefox Linux 运行，Chromium 没试过；Chrome Windows 没有问题。刷入 F4HWN 固件后，可以借助 [CHIRP 软件](https://chirpmyradio.com) 以及 [F4HWN 插件](https://github.com/armel/uv-k5-chirp-driver) 进行后续读写。
 
 申请操作证，需要在「智谱」APP 预约当地 A 类考试。智谱各地每年考试时间没有明确给出，需要常关注考试预约通知，也可以结合地方以往考试时间进行估计。预约考试后，可下载题库进行学习，或在智谱 APP / 各种第三方小程序刷题，题目不难。考试通过后几天即可收到操作证。（一些地方不会给实体操作证，或是实体操作证要交钱/入会）
 
