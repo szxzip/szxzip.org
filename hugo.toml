@@ -11,6 +11,9 @@ timeZone = "Asia/Shanghai"
   Title = "Time, forward."
   Content = "时代，前进 | Temps, en avant | Время, вперёд"
 
+[params.assets]
+  favicon = "/icons/favicon.ico"
+
 [params.fuseOpts]
   isCaseSensitive = 'false'
   shouldSort = true
