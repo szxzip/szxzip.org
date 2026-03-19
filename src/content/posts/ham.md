@@ -1,6 +1,6 @@
 ---
 title: "业余无线电入坑"
-discription: ""
+discription: "test"
 date: 2026-01-23
 ---
 
