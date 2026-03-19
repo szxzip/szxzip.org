@@ -8,18 +8,18 @@ const posts = (await getCollection("posts")).sort(
 );
 ---
 
-<Layout title="UINUX Blog">
+<Layout title="Pizxzs">
   <script slot="head" type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "UINUX Blog",
-    "description": "Writing about systems, design, and building with restraint.",
+    "name": "Time, forward",
+    "description": "时代，前进 | Temps, en avant | Время, вперёд",
     "url": Astro.site?.href,
   })} />
   <section class="home">
     <header class="home-header">
-      <Heading as="h1">UINUX Blog</Heading>
-      <p class="home-tagline">Writing about systems, design, and building with restraint.</p>
+      <Heading as="h1">Time, forward</Heading>
+      <p class="home-tagline">时代，前进 | Temps, en avant | Время, вперёд</p>
     </header>
     <ul class="post-list">
       {
