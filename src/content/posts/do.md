@@ -1,6 +1,6 @@
 ---
 title: "做些什么"
-discription: "test"
+description: "test"
 date: 2025-06-06
 ---
 

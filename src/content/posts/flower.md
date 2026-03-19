@@ -1,6 +1,6 @@
 ---
 title: "花"
-discription: "test"
+description: "test"
 date: 2026-02-18
 ---
 

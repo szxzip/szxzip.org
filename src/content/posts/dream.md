@@ -1,6 +1,6 @@
 ---
 title: "高考了"
-discription: "test"
+description: "test"
 date: 2025-06-03
 ---
 

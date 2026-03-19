@@ -1,6 +1,6 @@
 ---
 title: "原神 5.3 Grasscutter & 3DMigoto"
-discription: "test"
+description: "test"
 date: 2025-05-09
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "杀人日记"
-discription: "test"
+description: "test"
 date: 2026-01-27
 ---
 
