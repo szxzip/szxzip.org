@@ -1,6 +1,6 @@
 ---
 title: "我死了"
-description: "test"
+description: ""
 date: 2025-06-29
 ---
 
